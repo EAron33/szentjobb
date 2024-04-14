@@ -68,11 +68,17 @@ p{
     text-align: justify;
 }
 .apatsag{
-    margin-left: 75;
+    
     height: 200px;
     width: auto;
 }
 .forras{
     text-align: end;
     font-size: 8px;
+}
+a{
+    color: #E8D4A1;
+}
+a:hover{
+    color: cyan;
 }
